@@ -133,6 +133,7 @@ There are two ways to stay updated with this project:
 - [Dealing Out Deals](https://twitter.com/@DealingOutDeals) - Tweet @DealingOutDeals an Amazon link with a target price: it will alert you as soon as the price will be lower than that
 - [Notes From Bitcoin](https://twitter.com/@NotesFromBTC) 🔥 - Public notes from Bitcoin transactions, uncensored
 - [Trump2Cash 💰](https://twitter.com/@Trump2Cash) 🔥 - A stock trading bot powered by @realDonaldTrump tweets
+- [Twitter Stocks Dashboard](https://dashboard.nbshare.io/apps/twitter/most-active-stocks/) - A dashboard of Twitter stocks based on most popular tweets
 
 ## Nature 🌱
 - [Daily Glacier Bot 🤖](https://twitter.com/@dailyglacier) - Highlights the consequences of climate change on glaciers
